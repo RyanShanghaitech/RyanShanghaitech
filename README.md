@@ -1,1 +1,1 @@
-I will upload interesting projects about MRI sequence and reconstruction here. Hope you're well.
+I will upload interesting projects about MRI pulse sequence design and reconstruction here. Hope you're well.
